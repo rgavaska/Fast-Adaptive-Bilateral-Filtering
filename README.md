@@ -2,7 +2,9 @@
 ### Fast Adaptive Bilateral Filtering
 
 This is a Matlab implementation of the following paper:
+
 R. G. Gavaskar and K. N. Chaudhury, "Fast Adaptive Bilateral Filtering", to be published in IEEE Transactions on Image Processing.
+
 [[Early access version]](https://ieeexplore.ieee.org/document/8469064/)
 
 Before running the code, compile the MEX file in the 'fastABF' directory as follows:
