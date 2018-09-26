@@ -1,7 +1,7 @@
 
 ### Fast Adaptive Bilateral Filtering
 
-This is a Matlab implementation of the following paper:
+This is a Matlab implementation of the algorithm in the following paper:
 
 R. G. Gavaskar and K. N. Chaudhury, "Fast Adaptive Bilateral Filtering", to be published in IEEE Transactions on Image Processing.
 
