@@ -30,7 +30,7 @@ theta   = centering of the range Gaussian kernel, defined pixelwise (m-by-n).
 The main directory contains files to demonstrate application of the algorithm for image sharpening and noise removal, texture filtering, and JPEG deblocking.
 Run the files 'demo_sharpening.m', 'demo_texture.m', and 'demo_deblocking.m' respectively.
 
-The image 'fish.jpg' used for texture filtering has been downloaded from the [[project webpage]](http://www.cse.cuhk.edu.hk/~leojia/projects/texturesep/index.html) for the following paper:
+The image 'fish.jpg' used for texture filtering has been downloaded from the [project webpage](http://www.cse.cuhk.edu.hk/~leojia/projects/texturesep/index.html) for the following paper:
 
 L. Xu, Q. Yan, Y. Xia, and J. Jia, ''Structure extraction from texture via relative total variation,'' ACM Transactions on Graphics (TOG), 31(6), Article 139 (2012).
 
