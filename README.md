@@ -24,7 +24,7 @@ where
 f       = input image (m-by-n),
 rho     = width of the spatial Gaussian kernel,
 sigma   = width of the range Gaussian kernel, defined pixelwise (m-by-n),
-theta   = centering of the range Gaussian kernel, defined pixelwise (m-by-n),
+theta   = centering of the range Gaussian kernel, defined pixelwise (m-by-n).
 ```
 
 The main directory contains files to demonstrate application of the algorithm for image sharpening and noise removal, texture filtering, and JPEG deblocking.
