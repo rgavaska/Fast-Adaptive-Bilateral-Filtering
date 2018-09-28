@@ -13,6 +13,7 @@ function [ g_hat ] = fastABF( f,rho,sigma_r,theta,N,filtertype )
 % 
 % g_hat = fastABF(f,rho,sigma_r,theta,N) performs the same operation as
 % above, with N being the degree of the polynomial (N=5 by default).
+% It is recommended to not set N greater than 6.
 % 
 % g_hat = fastABF(f,rho,sigma_r,theta,N,filtertype) performs the same
 % operation as above with the spatial filter type specified by the final
