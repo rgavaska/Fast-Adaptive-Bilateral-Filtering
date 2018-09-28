@@ -29,7 +29,7 @@ tic;
 g = abf_bruteforce(f,rho,sigma_r,f+zeta);
 g(g>255) = 255; g(g<0) = 0;
 t2 = toc;
-fprintf('Done. Runtime = %f sec\n\n', t1);
+fprintf('Done. Runtime = %f sec\n\n', t2);
 
 fprintf('PSNR (bruteforce vs. fast) = %f dB\n', psnr(g_hat,g,255));
 
