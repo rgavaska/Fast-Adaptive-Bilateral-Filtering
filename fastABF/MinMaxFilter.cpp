@@ -211,7 +211,6 @@ void mexFunction(int nlhs, mxArray **plhs, int nrhs, const mxArray **prhs)
     matTranspose(alpha_temp,rows,columns,alpha);
     matTranspose(beta_temp,rows,columns,beta);
 
-//    minmaxFilter(f,rows,columns,w,alpha,beta);
     delete [] F;
     delete [] alpha_temp;
     delete [] beta_temp;
