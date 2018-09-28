@@ -17,7 +17,7 @@ mex MinMaxFilter.cpp
 The core source files implementing the algorithm are located in 'fastABF'.
 To execute the algorithm, run the command
 ```
-g = fastABF( f,rho,sigma,theta)
+g = fastABF( f,rho,sigma,theta )
 ```
 where
 ```
