@@ -9,6 +9,10 @@ DOI: 10.1109/TIP.2018.2871597
 
 [[Paper]](https://ieeexplore.ieee.org/document/8469064)
 
+### Requirements
+
+Matlab with Image Processing Toolbox. Tested on Matlab 9.1.0 (R2016b).
+
 ### Details
 
 Before running the code, compile the MEX file in the 'fastABF' directory as follows:
