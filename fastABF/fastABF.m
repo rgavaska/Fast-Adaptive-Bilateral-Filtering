@@ -40,6 +40,8 @@ function [ g_hat ] = fastABF( f,rho,sigma_r,theta,N,filtertype )
 % Author: Ruturaj G. Gavaskar
 % Email: ruturajg@iisc.ac.in
 % This code has been tested on Matlab 9.1.0 (R2016b).
+% An up-to-date version of this software is available at:
+% https://github.com/rgavaska/Fast-Adaptive-Bilateral-Filtering.
 %
 
 if(~exist('theta','var') || isempty(theta))
