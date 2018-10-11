@@ -34,9 +34,13 @@ function [ g_hat ] = fastABF( f,rho,sigma_r,theta,N,filtertype )
 % Output arguments:
 %   g_hat = Output image using the fast algorithm
 % 
-% Ref. R. G. Gavaskar and K. N. Chaudhury, "Fast Adaptive Bilateral
-% Filtering", to be published in IEEE Transactions on Image Processing.
+% Ref. R. G. Gavaskar and K. N. Chaudhury, "Fast Adaptive Bilateral Filtering",
+% IEEE Transactions on Image Processing, vol. 28, no. 2, pp. 779-790, 2019.
 % 
+% Author: Ruturaj G. Gavaskar
+% Email: ruturajg@iisc.ac.in
+% This code has been tested on Matlab 9.1.0 (R2016b).
+%
 
 if(~exist('theta','var') || isempty(theta))
     theta = f;
