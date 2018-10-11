@@ -3,7 +3,7 @@ function [ I ] = compInt( N,lambda,t0 )
 % Compute integrals using recursion
 %   N = Degree of polynomial
 %   lambda = Parameter of shifted Gaussian (see paper)
-%   x0 = Center of shifted Gaussian (see paper)
+%   t0 = Center of shifted Gaussian (see paper)
 %   I = Cell array (output) containing integrals
 
 I = cell(1,N+1);
