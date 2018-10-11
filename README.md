@@ -11,7 +11,11 @@ DOI: 10.1109/TIP.2018.2871597
 
 ### Requirements
 
-Matlab with Image Processing Toolbox. Tested on Matlab 9.1.0 (R2016b).
+(1) Matlab with Image Processing Toolbox.
+
+(2) C++ compiler (to compile mex file).
+
+Tested on Matlab 9.1.0 (R2016b) and GCC 4.8.4 (Ubuntu 14.04).
 
 ### Details
 
