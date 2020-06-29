@@ -38,6 +38,8 @@ sigma   = width of the range Gaussian kernel, defined pixelwise (m-by-n),
 theta   = centering of the range Gaussian kernel, defined pixelwise (m-by-n).
 ```
 
+Note that the input image f is assumed to be in the range [0,255] (or close to this range, for noisy images). The values of sigma_r must be set keeping this range in mind. The code may not work for images taking values in [0,1].
+
 The main directory contains files to demonstrate application of the algorithm for image sharpening and noise removal, texture filtering, and JPEG deblocking.
 Run the files 'demo_sharpening.m', 'demo_texture.m', and 'demo_deblocking.m' respectively.
 
