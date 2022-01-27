@@ -9,6 +9,8 @@ DOI: 10.1109/TIP.2018.2871597
 
 [[Paper]](https://ieeexplore.ieee.org/document/8469064)
 
+[[arXiv]](https://arxiv.org/abs/1811.02308)
+
 ### Requirements
 
 (1) Matlab with Image Processing Toolbox.
