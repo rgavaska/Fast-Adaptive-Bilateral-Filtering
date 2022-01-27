@@ -7,7 +7,7 @@ R. G. Gavaskar and K. N. Chaudhury, "Fast Adaptive Bilateral Filtering", IEEE Tr
 
 DOI: 10.1109/TIP.2018.2871597
 
-[[IEEEXplore]](https://ieeexplore.ieee.org/document/8469064)  [[arXiv]](https://arxiv.org/abs/1811.02308)
+[[IEEEXplore]](https://ieeexplore.ieee.org/document/8469064) &emsp [[arXiv]](https://arxiv.org/abs/1811.02308)
 
 ### Requirements
 
